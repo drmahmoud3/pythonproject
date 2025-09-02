@@ -8,3 +8,5 @@ print (c)
 
 def hello ():
     print(" new one ")
+def new_func () :
+    print(" the new function ")
