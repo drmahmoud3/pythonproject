@@ -8,4 +8,3 @@ print (c)
 
 def hello ():
     print(" new one ")
-    
